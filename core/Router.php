@@ -31,3 +31,4 @@ class Router
         (new $class)->$method();
     }
 }
+?>
