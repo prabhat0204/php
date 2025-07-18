@@ -18,3 +18,4 @@ class UserController
         echo json_encode(['status' => 'success', 'message' => 'User updated']);
     }
 }
+?>
